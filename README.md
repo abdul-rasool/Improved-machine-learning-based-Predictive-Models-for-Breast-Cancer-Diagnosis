@@ -5,9 +5,10 @@ This work proposed data exploratory techniques (DET) and developed four differen
 WDBC data availability: https://ftp.cs.wisc.edu/math-prog/cpo-dataset/machine-learn/cancer/WDBC/ 
 
 BCCD data availability: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Coimbra 
-
-
-
+\
+\
+\
+\
 **Citation Request:** 
 Rasool A, Bunterngchit C, Tiejian L, Islam MR, Qu Q, Jiang Q. Improved Machine Learning-Based Predictive Models for Breast Cancer Diagnosis. International Journal of Environmental Research and Public Health. 2022; 19(6):3211. https://doi.org/10.3390/ijerph19063211
 
