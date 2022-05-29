@@ -6,9 +6,9 @@ WDBC data availability: https://ftp.cs.wisc.edu/math-prog/cpo-dataset/machine-le
 BCCD data availability: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Coimbra 
 
 **Citation Request: 
-Rasool A, Bunterngchit C, Tiejian L, Islam MR, Qu Q, Jiang Q. Improved Machine Learning-Based Predictive Models for Breast Cancer Diagnosis. International Journal of Environmental Research and Public Health. 2022; 19(6):3211. https://doi.org/10.3390/ijerph19063211
+Rasool A, Bunterngchit C, Tiejian L, Islam MR, Qu Q, Jiang Q. Improved Machine Learning-Based Predictive Models for Breast Cancer Diagnosis. International Journal of Environmental Research and Public Health. 2022; 19(6):3211. https://doi.org/10.3390/ijerph19063211**
 
->* *Published Paper: 
-https://doi.org/10.3390/ijerph19063211 
+>*[Published Paper](https://www.researchgate.net/publication/359124843_Improved_Machine_Learning-Based_Predictive_Models_for_Breast_Cancer_Diagnosis)
+
 
 
