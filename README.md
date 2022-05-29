@@ -1,4 +1,4 @@
-# [Improved machine learning-based Predictive Models for Breast Cancer Diagnosis](https://www.researchgate.net/publication/359124843_Improved_Machine_Learning-Based_Predictive_Models_for_Breast_Cancer_Diagnosis)
+# [Improved Machine Learning-based Predictive Models for Breast Cancer Diagnosis](https://www.researchgate.net/publication/359124843_Improved_Machine_Learning-Based_Predictive_Models_for_Breast_Cancer_Diagnosis)
 
 This work proposed data exploratory techniques (DET) and developed four different predictive models to improve breast cancer diagnostic accuracy. Prior to models, four-layered essential DET, e.g., feature distribution, correlation, elimination, and hyperparameter optimization, were deep-dived to identify the robust feature classification into malignant and benign classes. Breast cancer is diagnosed with four different machine learning classifiers (SVM, LR, KNN, and EC) at following two public datasets. 
 
