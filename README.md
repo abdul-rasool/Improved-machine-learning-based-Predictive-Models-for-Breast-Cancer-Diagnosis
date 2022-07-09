@@ -14,7 +14,7 @@ Rasool, A.; Bunterngchit, C.; Tiejian, L.; Islam, M.R.; Qu, Q.; Jiang, Q. Improv
 
 
 
->[Online Published Paper]([https://www.researchgate.net/publication/359124843_Improved_Machine_Learning-Based_Predictive_Models_for_Breast_Cancer_Diagnosis](https://www.researchgate.net/publication/359124843_Improved_Machine_Learning-Based_Predictive_Models_for_Breast_Cancer_Diagnosis))
+>[Online Published Paper]([https://www.researchgate.net/publication/359124843_Improved_Machine_Learning-Based_Predictive_Models_for_Breast_Cancer_Diagnosis])
 
 
 
