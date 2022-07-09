@@ -14,7 +14,7 @@ S. Aslam, A. Rasool, Q. Jiang and Q. Qu, "LSTM based Model for Real-time Stock M
 
 
 
->[Online Published Paper](https://www.researchgate.net/publication/359124843_Improved_Machine_Learning-Based_Predictive_Models_for_Breast_Cancer_Diagnosis)
+>[Online Published Paper]([https://www.researchgate.net/publication/359124843_Improved_Machine_Learning-Based_Predictive_Models_for_Breast_Cancer_Diagnosis](https://www.researchgate.net/publication/359124843_Improved_Machine_Learning-Based_Predictive_Models_for_Breast_Cancer_Diagnosis))
 
 
 
