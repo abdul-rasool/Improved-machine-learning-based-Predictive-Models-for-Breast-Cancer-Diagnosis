@@ -10,7 +10,7 @@ BCCD data availability: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Co
 \
 **Citation Request:** 
 
-S. Aslam, A. Rasool, Q. Jiang and Q. Qu, "LSTM based Model for Real-time Stock Market Prediction on Unexpected Incidents," 2021 IEEE International Conference on Real-time Computing and Robotics (RCAR), 2021, pp. 1149-1153, doi: 10.1109/RCAR52367.2021.9517625.
+Rasool, A.; Bunterngchit, C.; Tiejian, L.; Islam, M.R.; Qu, Q.; Jiang, Q. Improved Machine Learning-Based Predictive Models for Breast Cancer Diagnosis. Int. J. Environ. Res. Public Health 2022, 19, 3211. https://doi.org/10.3390/ijerph19063211.
 
 
 
